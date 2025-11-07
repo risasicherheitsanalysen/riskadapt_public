@@ -1,5 +1,3 @@
-# riskadapt_public
-
 ## Submodules
 
 This repository includes the following submodule:
